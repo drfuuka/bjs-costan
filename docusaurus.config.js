@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'BJS Costan',
   tagline: 'Standarisasi code Berjasa Dev',
-  url: 'https://github.com',
+  url: 'https://mcboo-design.github.io',
   baseUrl: '/bjs-costan/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
